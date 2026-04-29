@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/company/gitops-platform
+    repoURL: https://github.com/tqnhu4/gitops-multi-envs
     targetRevision: HEAD
     path: environments/staging
 

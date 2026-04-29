@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: nginx
-  tag: staging
+  tag: latest
 
 service:
   type: ClusterIP
